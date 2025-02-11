@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Vladimir-Estevez-Portfolio/static/css/main.acc16e7b.css",
-    "main.js": "/Vladimir-Estevez-Portfolio/static/js/main.9e6caf5d.js",
+    "main.js": "/Vladimir-Estevez-Portfolio/static/js/main.36337c08.js",
     "static/js/488.dc97d15e.chunk.js": "/Vladimir-Estevez-Portfolio/static/js/488.dc97d15e.chunk.js",
     "index.html": "/Vladimir-Estevez-Portfolio/index.html",
     "main.acc16e7b.css.map": "/Vladimir-Estevez-Portfolio/static/css/main.acc16e7b.css.map",
-    "main.9e6caf5d.js.map": "/Vladimir-Estevez-Portfolio/static/js/main.9e6caf5d.js.map",
+    "main.36337c08.js.map": "/Vladimir-Estevez-Portfolio/static/js/main.36337c08.js.map",
     "488.dc97d15e.chunk.js.map": "/Vladimir-Estevez-Portfolio/static/js/488.dc97d15e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acc16e7b.css",
-    "static/js/main.9e6caf5d.js"
+    "static/js/main.36337c08.js"
   ]
 }
