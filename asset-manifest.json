@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Vladimir-Estevez-Portfolio/static/css/main.acc16e7b.css",
-    "main.js": "/Vladimir-Estevez-Portfolio/static/js/main.a96b8bd0.js",
+    "main.css": "/Vladimir-Estevez-Portfolio/static/css/main.9fe40f7c.css",
+    "main.js": "/Vladimir-Estevez-Portfolio/static/js/main.e7cfb541.js",
     "static/js/488.dc97d15e.chunk.js": "/Vladimir-Estevez-Portfolio/static/js/488.dc97d15e.chunk.js",
+    "static/media/graduation.jpg": "/Vladimir-Estevez-Portfolio/static/media/graduation.8d682f0d2e4b3c92981e.jpg",
     "index.html": "/Vladimir-Estevez-Portfolio/index.html",
-    "main.acc16e7b.css.map": "/Vladimir-Estevez-Portfolio/static/css/main.acc16e7b.css.map",
-    "main.a96b8bd0.js.map": "/Vladimir-Estevez-Portfolio/static/js/main.a96b8bd0.js.map",
+    "main.9fe40f7c.css.map": "/Vladimir-Estevez-Portfolio/static/css/main.9fe40f7c.css.map",
+    "main.e7cfb541.js.map": "/Vladimir-Estevez-Portfolio/static/js/main.e7cfb541.js.map",
     "488.dc97d15e.chunk.js.map": "/Vladimir-Estevez-Portfolio/static/js/488.dc97d15e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acc16e7b.css",
-    "static/js/main.a96b8bd0.js"
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.e7cfb541.js"
   ]
 }
