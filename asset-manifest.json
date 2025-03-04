@@ -1,17 +1,31 @@
 {
   "files": {
-    "main.css": "/Vladimir-Estevez-Portfolio/static/css/main.9fe40f7c.css",
-    "main.js": "/Vladimir-Estevez-Portfolio/static/js/main.5a529a5b.js",
+    "main.css": "/Vladimir-Estevez-Portfolio/static/css/main.bd66490d.css",
+    "main.js": "/Vladimir-Estevez-Portfolio/static/js/main.05398ed2.js",
     "static/js/488.dc97d15e.chunk.js": "/Vladimir-Estevez-Portfolio/static/js/488.dc97d15e.chunk.js",
+    "static/media/blackjack.jpg": "/Vladimir-Estevez-Portfolio/static/media/blackjack.d1b34751600fe735a9d3.jpg",
+    "static/media/background.mp4": "/Vladimir-Estevez-Portfolio/static/media/background.b50e6ce6f1995ef42467.mp4",
+    "static/media/iot environment.jpg": "/Vladimir-Estevez-Portfolio/static/media/iot environment.c2970310c02b15175882.jpg",
+    "static/media/portfolio.jpg": "/Vladimir-Estevez-Portfolio/static/media/portfolio.c6bc55a7d897096e9046.jpg",
+    "static/media/integrative project.jpg": "/Vladimir-Estevez-Portfolio/static/media/integrative project.c81e115f9486516c1b9f.jpg",
+    "static/media/CICD.png": "/Vladimir-Estevez-Portfolio/static/media/CICD.544a4fc165c9fb69bc62.png",
+    "static/media/iot smart home.jpeg": "/Vladimir-Estevez-Portfolio/static/media/iot smart home.5d93d3a498f5acd315d2.jpeg",
     "static/media/graduation.jpg": "/Vladimir-Estevez-Portfolio/static/media/graduation.8d682f0d2e4b3c92981e.jpg",
+    "static/media/kotlin.png": "/Vladimir-Estevez-Portfolio/static/media/kotlin.ac3135d6cdd1e3903696.png",
+    "static/media/parkour.webp": "/Vladimir-Estevez-Portfolio/static/media/parkour.e41a8456640c5e23a6d8.webp",
+    "static/media/enviromental data explorer.jpg": "/Vladimir-Estevez-Portfolio/static/media/enviromental data explorer.6f20fcdd12c772b9ee85.jpg",
+    "static/media/internship.svg": "/Vladimir-Estevez-Portfolio/static/media/internship.02da77092931c584937b27181116fb7a.svg",
+    "static/media/gaming programing.png": "/Vladimir-Estevez-Portfolio/static/media/gaming programing.2ca73336bc43452a036d.png",
+    "static/media/react_websocket.webp": "/Vladimir-Estevez-Portfolio/static/media/react_websocket.9b2d3153d480c722a109.webp",
     "static/media/youtube.png": "/Vladimir-Estevez-Portfolio/static/media/youtube.c1f46c68075901ddf626.png",
+    "static/media/cinema.webp": "/Vladimir-Estevez-Portfolio/static/media/cinema.3fc58efc15227f8b9a4d.webp",
     "index.html": "/Vladimir-Estevez-Portfolio/index.html",
-    "main.9fe40f7c.css.map": "/Vladimir-Estevez-Portfolio/static/css/main.9fe40f7c.css.map",
-    "main.5a529a5b.js.map": "/Vladimir-Estevez-Portfolio/static/js/main.5a529a5b.js.map",
+    "main.bd66490d.css.map": "/Vladimir-Estevez-Portfolio/static/css/main.bd66490d.css.map",
+    "main.05398ed2.js.map": "/Vladimir-Estevez-Portfolio/static/js/main.05398ed2.js.map",
     "488.dc97d15e.chunk.js.map": "/Vladimir-Estevez-Portfolio/static/js/488.dc97d15e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fe40f7c.css",
-    "static/js/main.5a529a5b.js"
+    "static/css/main.bd66490d.css",
+    "static/js/main.05398ed2.js"
   ]
 }
